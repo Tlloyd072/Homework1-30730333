@@ -1,0 +1,7 @@
+int sum = val1 + val2;
+
+Val1 = input("Enter value number 1 ");
+Val2 = input("Enter value number 2 ");
+
+
+print("The sum of val1 and val2 is", sum);
